@@ -1,0 +1,18 @@
+{
+  "name": "weappify",
+  "version": "0.0.1",
+  "bin": {
+    "weappify": "./src/index.js"
+  },
+  "author": "程巍巍",
+  "license": "Apache-2.0",
+  "description": "",
+  "dependencies": {
+    "babel-generator": "^6.26.1",
+    "babel-template": "^6.26.0",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "babylon": "^6.18.0",
+    "commander": "^2.19.0"
+  }
+}
